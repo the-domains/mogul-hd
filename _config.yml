@@ -1,0 +1,14 @@
+layout_spectrum: 0.08423966751433909
+typography_spectrum: 0.8095578195061535
+color:
+  brandStrength: 0.30078707868233323
+  lightness: 0.30866754218004644
+  saturation: 0.12853908725082874
+  rhythmicContrast: 0.3867099292110652
+  brandColors:
+    - '#010101'
+    - '#3A3A3A'
+    - '#5D5D5D'
+    - '#9B9B9B'
+    - '#ECECEC'
+name: MOGUL HD
